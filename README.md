@@ -55,5 +55,4 @@ The Animal Detection System based on YOLOv8 can detect various objects present i
 6. Outdoor Objects: Trees, plants, traffic lights, stop signs, fire hydrants, etc.
 7. Sports Objects: Balls (soccer, basketball, baseball), tennis rackets, hockey sticks, etc.
 8. Food Items: Fruits, vegetables, bottles, cups, plates, etc.
-
-The model has been trained on a large and diverse dataset
+The model COCO_TRAINED_MODEL.pt is trained with 100 Epochs  on coco128 dataset.
