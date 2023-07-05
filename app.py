@@ -4,7 +4,7 @@ import argparse
 from flask import Flask, Response, render_template, request
 import tempfile
 import os
-
+# Flask APPLICATION
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = tempfile.gettempdir()
 
